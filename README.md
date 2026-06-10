@@ -1,1 +1,0 @@
-# Leap_Motion_ile_Uluslararasi_Isaret_Dili_Harflerinin_Metne_Donusturulmesi
